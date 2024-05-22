@@ -38,9 +38,6 @@ Run the included testbench with your preferred simulation tool to verify the fun
 ## Contributing
 Feel free to fork this project and contribute by submitting a pull request with your improvements.
 
-## Acknowledgments
-- A shoutout to all the digital design enthusiasts and the open-source community.
-
 ## About The Author
 Author: Nada Omar
 
